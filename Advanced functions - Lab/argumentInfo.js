@@ -22,11 +22,3 @@ console.log(solve('cat', 42, function () {
     console.log('Hello world!');
 }))
 
-//output
-
-// string: cat
-// number: 42
-// function: function () { console.log('Hello world!'); }
-// string = 1
-// number = 1
-// function = 1

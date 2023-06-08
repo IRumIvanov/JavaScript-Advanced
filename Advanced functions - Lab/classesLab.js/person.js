@@ -21,6 +21,4 @@ function getPerson() {
 
 }
 
-//let person = new Person('Anna', 'Simpson', 22, 'anna@yahoo.com');
-//let person = new Person('SoftUni');
 console.log(getPerson());
